@@ -13,6 +13,14 @@ Navigate to the project directory in your terminal or command prompt and run the
 ```bash
 gcc -o StoreManager main.c
 
+Execution
+After compilation, you can run the program with this command:
+
+./StoreManager
+
+## Author
+• Imran Khan M - GitHub Profile
+
 ## About the Author
 I am **Imran Khan M** from Trichy, currently staying in Chennai, Tamil Nadu.
 
